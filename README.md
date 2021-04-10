@@ -1,6 +1,6 @@
 # Plant biosignal classification
 
-**This notebook aims to classify electrophysiology signals regarding their quality by using machine learning techniques.**
+**This notebook aims to classify electrophysiology signals regarding their quality by using machine learning techniques.**<br/>
 *Please, also find my live presentation on YouTube (in french): https://youtu.be/-pawzPjUb9U?t=2649*
 
 **Problem:**
