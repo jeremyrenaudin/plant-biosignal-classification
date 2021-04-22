@@ -1,7 +1,8 @@
 # Plant biosignal classification
 
 **This notebook aims to classify electrophysiology signals regarding their quality by using machine learning techniques.**<br/>
-*Please, also find my live presentation on YouTube (in french): https://youtu.be/-pawzPjUb9U?t=2649*
+*Learn more about my background and this exciting project through [this article written by Vivent SA company](https://www.phytlsigns.com/aspiring-data-hero-tells-us-about-his-experience-with-vivent/?utm_content=162147497&utm_medium=social&utm_source=linkedin&hss_channel=lcp-10439639).*<br />
+*Please, also find [my live presentation on YouTube (in french)](https://youtu.be/-pawzPjUb9U?t=2649).*
 
 **Problem:**
 <ul>
